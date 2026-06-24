@@ -1,4 +1,6 @@
-# Inventory and Sales Analysis using ABC-XYZ Classification
+# Sales-Inventory-Analysis
+
+## Inventory and Sales Analysis using ABC-XYZ Classification
 
 ## Overview
 
