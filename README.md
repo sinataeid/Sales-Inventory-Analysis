@@ -1,7 +1,7 @@
 # Sales-Inventory-Analysis
 
 ## Inventory and Sales Analysis using ABC-XYZ Classification
-
+Dataset srouce: https://www.kaggle.com/datasets/vinothkannaece/sales-dataset?resource=download
 ## Overview
 
 This project analyses product sales data using ABC-XYZ classification to identify high-value products and understand demand variability.
